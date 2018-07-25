@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-camera</string>
+    <string name="takepic">Camera</string>
+</resources>
